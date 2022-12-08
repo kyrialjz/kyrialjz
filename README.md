@@ -27,19 +27,18 @@ Here are some ideas to get you started:
 </p>
 
 - My life outside of work revolves around my pets, Chanel 🐹 and Dior 🐶. Chanel is actually the older one :) 
-<div class = "row">
-  <div class = "col">
-    <image align = "left" width = "20%" img src = "https://user-images.githubusercontent.com/86298464/206136564-5e628432-de16-48ff-8de1-876d9d275f6b.jpg">
+<div class="row">
+  <div class="column">
+    <image align = "left" img src="https://user-images.githubusercontent.com/86298464/206136564-5e628432-de16-48ff-8de1-876d9d275f6b.jpg" alt="Chanel" style="width:30%">
   </div>
-  
-  <div class = "col">
-    <image align = "left" width = "20%" img src = "https://user-images.githubusercontent.com/86298464/206137709-1309b9d5-b4d1-4efc-9cef-db19a494862e.jpg">
+  <div class="column">
+    <image align = "left" img src="https://user-images.githubusercontent.com/86298464/206137709-1309b9d5-b4d1-4efc-9cef-db19a494862e.jpg" alt="Dior" style="width:30%">
   </div>
-  
-  <div class = "col">
-    <image align = "left" width = "20%" img src = "https://user-images.githubusercontent.com/86298464/206138341-0e33e1d2-3c6a-43d6-abd1-ae50b3b3ec7d.jpg">
-  </div> 
-    
+  <div class="column">
+    <image align = "left" img src="https://user-images.githubusercontent.com/86298464/206138341-0e33e1d2-3c6a-43d6-abd1-ae50b3b3ec7d.jpg" alt="My cuties<3" style="width:30%">
+  </div>
+</div>
+ 
     
     
   
