@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I am a Year 2 Business Analytics undergraduate at the National University of Singapore
-- 🌱 I am passionate about data science and hope to specialise in Machine Learning 
+- ⚡ I am currently doing an internship at ByteDance/TikTok as a risk analyst 
+- 🌱 I am passionate about data science/analytics and hope to specialise in Machine Learning 
 - 📫 You can reach me at: kyrialjz@gmail.com
 
 <p float="left">
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- My life outside of work revolves around my pets, Chanel 🐹 and Dior 🐶. Chanel is actually the older one :)
+- My life outside of work revolves around my pets, Chanel 🐹 and Dior 🐶. Chanel is actually the older one :) 
 <div class = "row">
   <div class = "col">
     <image align = "left" width = "20%" img src = "https://user-images.githubusercontent.com/86298464/206136564-5e628432-de16-48ff-8de1-876d9d275f6b.jpg">
@@ -37,5 +38,8 @@ Here are some ideas to get you started:
   
   <div class = "col">
     <image align = "left" width = "20%" img src = "https://user-images.githubusercontent.com/86298464/206138341-0e33e1d2-3c6a-43d6-abd1-ae50b3b3ec7d.jpg">
-  </div>
-   
+  </div> 
+    
+    
+    
+  
