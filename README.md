@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p float="left">
   <a href="https://github.com/kyrialjz/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyrialjz&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=DFE7FB&icon_color=C6E2F7&custom_title=Jia&nbsp;Zhen's%20GitHub%20Stats"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyrialjz&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=DFE7FB&icon_color=C6E2F7&custom_title=Kyria's%20GitHub%20Stats"/>  
   </a>
 </p>
  
