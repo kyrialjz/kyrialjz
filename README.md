@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am a Year 3 Business Analytics undergraduate at the National University of Singapore
-- ⚡ I am currently doing a data engineering internship at Micron Technology 
-- 🌱 I am passionate and well-versed about the data cycle
+- 🔭 I am a Year 4 Business Analytics student at NUS, graduating November 2024
+- ⚡ I am currently doing a data engineering internship at Tencent
+- 🌱 I am passionate and well-versed about data engineering and infrastructure
 - 📫 You can reach me at: kyrialjz@gmail.com
   
     
